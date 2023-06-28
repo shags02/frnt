@@ -1,0 +1,12 @@
+<div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
+  <div className="carousel-inner">
+    <div className="carousel-item active">
+      <img className="d-block w-100" src="https://source.unsplash.com/random/900x700/?burger" alt="First slide"/>
+    </div>
+    <div className="carousel-item">
+      <img className="d-block w-100" src="https://source.unsplash.com/random/900x700/?pizza" alt="Second slide"/>
+    </div>
+    <div className="carousel-item">
+      <img className="d-block w-100" src="https://source.unsplash.com/random/900x700/?apple" alt="Third slide"/>
+    </div>
+  </div>
